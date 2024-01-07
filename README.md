@@ -4,5 +4,5 @@
 ### ETC
 
 --- 
- - [TIL](https://github.com/ymg4798/ETC/TIL/til.md)
- - [Markdown 기본문법](https://github.com/ymg4798/ETC/TIL/markdown.md)
+ - [TIL](ETC/til.md)
+ - [Markdown 기본문법](ETC/markdown.md)
