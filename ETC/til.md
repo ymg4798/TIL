@@ -14,3 +14,11 @@
 - 사이드 프로젝트 멀티 모듈, 테스트 코드 셋팅
 
 </details>
+
+<details>
+    <summary>2024 1월 3주차</summary>
+
+- 사이드 프로젝트 SpringRestDocs 셋팅
+- 사이드 프로젝트 ERD, 요구사항 정의서 회의
+
+</details>
