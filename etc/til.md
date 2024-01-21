@@ -18,7 +18,9 @@
 <details>
     <summary>2024 1월 3주차</summary>
 
+- 백준 알고리즘 2304
 - 사이드 프로젝트 SpringRestDocs 셋팅
 - 사이드 프로젝트 ERD, 요구사항 정의서 회의
+- 사이드 프로젝트 Spring REST Docs + SwaggerUI 적용 
 
 </details>
