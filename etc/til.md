@@ -24,3 +24,10 @@
 - 사이드 프로젝트 Spring REST Docs + SwaggerUI 적용 
 
 </details>
+
+<details>
+    <summary>2024 1월 4주차</summary>
+
+- 백준 알고리즘 2668
+
+</details>
