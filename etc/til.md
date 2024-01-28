@@ -29,5 +29,7 @@
     <summary>2024 1월 4주차</summary>
 
 - 백준 알고리즘 2668
+- REST Docs 사용법 및 예제 작성
+- 사이드 프로젝트 게시판 CRUD + 댓글 CRUD + 테스트 코드 작성 (50퍼 진행완료)
 
 </details>
