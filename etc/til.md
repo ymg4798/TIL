@@ -33,3 +33,11 @@
 - 사이드 프로젝트 게시판 CRUD + 댓글 CRUD + 테스트 코드 작성 (50퍼 진행완료)
 
 </details>
+
+<details>
+    <summary>2024 1월 5주차</summary>
+
+- 프로그래머스 숨박꼭질
+- 사이드 프로젝트 공통 기능 개발(QueryDsl설정, RestDocs 테스트 코드, Converter, 페이징 처리)
+
+</details>
