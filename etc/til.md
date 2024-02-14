@@ -37,7 +37,14 @@
 <details>
     <summary>2024 1월 5주차</summary>
 
-- 프로그래머스 숨박꼭질
+- 프로그래머스 숨박꼭질, 피로도
 - 사이드 프로젝트 공통 기능 개발(QueryDsl설정, RestDocs 테스트 코드, Converter, 페이징 처리)
+
+</details>
+
+<details>
+    <summary>2024 2월 2주차</summary>
+
+- 사이드 프로젝트 리펙토링 및 코드 개선 방향 점검
 
 </details>
