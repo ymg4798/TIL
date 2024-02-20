@@ -13,6 +13,11 @@
  - [TIL](etc/til.md)
  - [Markdown 기본문법](etc/markdown.md)
 
+### 프로젝트 기록
+
+---
+ - [Java Enum활용 데이터 저장](project/java-enum.md)
+
 ### Error Report
 
 --- 
