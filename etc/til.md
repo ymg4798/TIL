@@ -57,3 +57,11 @@
 - 프로젝트 이슈 관련 정리
 
 </details>
+
+<details>
+    <summary>2024 2월 4주차</summary>
+
+- 사이드 프로젝트 10일 만에 쇼핑몰 백엔드 만들기
+- JPA 재학습
+
+</details>
